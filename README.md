@@ -9,13 +9,6 @@ Types of Bandpass Filters:
 Active Bandpass Filter – Uses operational amplifiers, resistors, and capacitors.
 Passive Bandpass Filter – Uses only resistors, capacitors, and inductors.
 
-f 
-0
-​
- = 
-2π 
-LC
-​
- 
-1
-​
+![BANDPASS](https://github.com/user-attachments/assets/a5de0b82-2bae-49ce-97f4-9eb6eebe785b)
+
+
