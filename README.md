@@ -1,5 +1,4 @@
 # Bandpass-Filter
-
 ## A simple bandpass filter designed in Simulink
 
 Bandpass Filter
