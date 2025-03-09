@@ -9,6 +9,8 @@ Types of Bandpass Filters:
 Active Bandpass Filter – Uses operational amplifiers, resistors, and capacitors.
 Passive Bandpass Filter – Uses only resistors, capacitors, and inductors.
 
+
 ![BANDPASS](https://github.com/user-attachments/assets/a5de0b82-2bae-49ce-97f4-9eb6eebe785b)
 
 
+Now, max voltage is obtained at 10V, using Resonant Frequency formula, where Resonant Frequency = 4467 Hz
